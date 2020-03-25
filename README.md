@@ -9,9 +9,6 @@
 
 这里记录学习总结
 
-* [Github Sponsorship](https://github.com/users/getify/sponsorship)
-* [Patreon](https://www.patreon.com/getify)
-* [Paypal](https://www.paypal.me/getify)
 * [开篇词](start/README.md)
 
 ----
