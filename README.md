@@ -10,6 +10,9 @@
 这里记录学习总结
 
 * [开篇词](start/README.md)
+* [明确前端学习路线和方法](define-pathroad/README.md)
+1. 建立知识架构
+2. 深入理解重要知识点
 
 ----
 
