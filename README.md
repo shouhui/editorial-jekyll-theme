@@ -12,7 +12,7 @@
 * [Github Sponsorship](https://github.com/users/getify/sponsorship)
 * [Patreon](https://www.patreon.com/getify)
 * [Paypal](https://www.paypal.me/getify)
-
+* [开篇词](start/README.md)
 
 ----
 
