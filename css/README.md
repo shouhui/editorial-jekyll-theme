@@ -20,3 +20,10 @@ strong {
 |B+E | 元素B下一个兄弟元素E |
 |B~E | 元素B后的所有兄弟元素E |
 
+# 属性选择器
+```
+a[href="https://example.org"] {
+  color: green;
+}
+```
+
